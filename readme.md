@@ -108,4 +108,6 @@ Or:
 python app.py
 ```
 
-The app runs by default at:
+The app runs by default at: http://127.0.0.1:5000
+
+Open it in your browser to access the application.
